@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleMapsClusterMarkers</string>
+    <string name="map">Google map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_cluster_info_window">ClusterInfoWindow</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
